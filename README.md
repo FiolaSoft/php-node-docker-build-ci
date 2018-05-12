@@ -34,7 +34,6 @@
 * sqlite3
 * xml
 * zip
-* mongodb
 * redis
 
 ## NPM packages globally installed

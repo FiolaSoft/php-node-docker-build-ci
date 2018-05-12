@@ -1,4 +1,4 @@
-NAME = fiolasoft/php-node-build
+NAME = fiolasoft/php-node-docker-build-ci
 VERSION = 0.1.0
 
 .PHONY: all php71 php72 tag_latest release

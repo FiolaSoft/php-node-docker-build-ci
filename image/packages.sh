@@ -51,6 +51,7 @@ npm config set cache /cache/npm
 # Composer speed-up
 composer global require hirak/prestissimo:@stable
 composer global require jakub-onderka/php-parallel-lint:@stable
+composer global require jakub-onderka/php-console-highlighter:@stable
 composer global require nette/code-checker:~2.5.0
 composer global require phpstan/phpstan:@stable
 composer global require fiolasoft/qa:~0.7.2
